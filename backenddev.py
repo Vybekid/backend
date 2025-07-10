@@ -20,4 +20,4 @@ flower_large_image.move_to(new_x=67, new_y=383)
 
 lady_picture.move_to(new_x=300, new_y=129)
 
-
+#Above is just a skeleton code
